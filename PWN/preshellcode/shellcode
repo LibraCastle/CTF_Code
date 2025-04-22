@@ -1,0 +1,8 @@
+xor rax, rax
+mov rbx, 0x68732f6e69622f2f
+push rbx
+mov rdi, rsp
+xor rsi, rsi
+xor rdx, rdx
+mov al, 59
+syscall
