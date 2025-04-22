@@ -1,3 +1,36 @@
+CTF Solutions & Writeups Repository
 
-NEWCONTENT
+📜 Introduction
+Welcome to my CTF challenge repository! This project contains documented solutions, exploit code, and technical writeups for various Capture The Flag competitions. If these materials assist you in learning cybersecurity techniques or solving challenges, I'll consider this repository truly valuable.
 
+🛠 Usage Guidance
+
+    Code Reference
+        · All exploits and scripts are categorized by competition/platform (e.g., /PWN, /Reverse_Engine)
+
+        · Contains detailed comments explaining key attack vectors
+
+    Writeup Structure
+        · Problem analysis → Vulnerability discovery → Exploit chain visualization
+
+        · Includes payload templates and environment configuration tips
+
+
+💬 Feedback & Contribution
+
+    🐛 Found issues in code logic?
+
+    🔍 Have better solution approaches?
+
+    ❓ Need clarification on specific techniques?
+
+欢迎交流：
+📩 GitHub Issue
+📧 Email: [3237538136@qq.com]
+
+
+🙌 Acknowledgments
+Special thanks to these platforms for inspiring challenges:
+· 东莞理工学院CTF平台(https://hacktb.com/)
+· 西安电子科技大学CTF平台(https://ctf.xidian.edu.cn/)
+· etc
